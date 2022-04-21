@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/momentum-clone/static/css/main.606f8cb5.css",
+    "main.js": "/momentum-clone/static/js/main.05afcdf9.js",
+    "index.html": "/momentum-clone/index.html",
+    "main.606f8cb5.css.map": "/momentum-clone/static/css/main.606f8cb5.css.map",
+    "main.05afcdf9.js.map": "/momentum-clone/static/js/main.05afcdf9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.606f8cb5.css",
+    "static/js/main.05afcdf9.js"
+  ]
+}
